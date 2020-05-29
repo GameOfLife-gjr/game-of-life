@@ -1,4 +1,4 @@
-node('UBUNTU, AZURE')
+node('AzureAgent1')
 	{
 		stage('scm')
 		{
